@@ -1,2 +1,0 @@
-Forecast Performance on 3 Months Validation Data Set: {'MSE': 0.006014823402566268, 'RMSE': 0.07755529255032353, 'R2': 0.012877409990366129}
-n process.
