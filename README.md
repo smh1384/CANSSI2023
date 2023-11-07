@@ -1,5 +1,6 @@
 # CANSSI2023
 French Trot Horse Racing: Forecasting Competition
+Team: Seyed Mohammad Mehdi Hassani Najafabadi
 # 1- Brief Introduction to the Machine Learning Workflow 
 In this project, we have undertaken a comprehensive machine-learning workflow to predict win probabilities in horse racing. Our approach is methodical, starting from data preprocessing to model selection and evaluation. Below is an overview of the steps we have taken:
 ## Algorithm Comparison and Selection
