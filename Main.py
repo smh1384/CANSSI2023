@@ -12,9 +12,9 @@ from sklearn.decomposition import PCA
 from lightgbm import LGBMRegressor
 
 # Configuration
-LOG_FILE_PATH = "/gpfs/fs0/scratch/s/shirani/smh1384/algorithm_outputs.txt"
+LOG_FILE_PATH = ""
 DATA_PATH = 'trots_2013-2022.parquet'
-OUTPUT_DIR = '/gpfs/fs0/scratch/s/shirani/smh1384'
+OUTPUT_DIR = ''
 Z_SCORE_THRESHOLD = 6
 PCA_COMPONENTS = 0.95
 RANDOM_STATE = 42
